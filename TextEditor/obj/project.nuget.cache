@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2VrtBfy9VstEq9SSJiGU9TCAWE2FB4p+oP8emdKtpo1QpFQ0mgB6JjNEko1O9MuK4z09im0NoDHyFXxqpWZyUg==",
+  "dgSpecHash": "HBCGvM15n0NJzu1ek2J9OjBumqcieCvSckyMZLfOPsx48sUEb+5ZEKGTiXO7yYTLhyniUBx749rJpXbp5HQuMA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\CSharp\\TextEditor\\TextEditor.csproj",
+  "projectFilePath": "C:\\dev\\CSharp\\Projetos\\TextEditor\\TextEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

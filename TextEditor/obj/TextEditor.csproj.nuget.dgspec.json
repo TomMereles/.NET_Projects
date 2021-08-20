@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\CSharp\\TextEditor\\TextEditor.csproj": {}
+    "C:\\dev\\CSharp\\Projetos\\TextEditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "C:\\dev\\CSharp\\TextEditor\\TextEditor.csproj": {
+    "C:\\dev\\CSharp\\Projetos\\TextEditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\CSharp\\TextEditor\\TextEditor.csproj",
+        "projectUniqueName": "C:\\dev\\CSharp\\Projetos\\TextEditor\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "C:\\dev\\CSharp\\TextEditor\\TextEditor.csproj",
+        "projectPath": "C:\\dev\\CSharp\\Projetos\\TextEditor\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\wellingtonmereles\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\CSharp\\TextEditor\\obj\\",
+        "outputPath": "C:\\dev\\CSharp\\Projetos\\TextEditor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\CSharp\\EditorHtml\\EditorHtml.csproj",
+      "projectUniqueName": "C:\\dev\\CSharp\\Projetos\\EditorHtml\\EditorHtml.csproj",
       "projectName": "EditorHtml",
-      "projectPath": "C:\\dev\\CSharp\\EditorHtml\\EditorHtml.csproj",
+      "projectPath": "C:\\dev\\CSharp\\Projetos\\EditorHtml\\EditorHtml.csproj",
       "packagesPath": "C:\\Users\\wellingtonmereles\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\CSharp\\EditorHtml\\obj\\",
+      "outputPath": "C:\\dev\\CSharp\\Projetos\\EditorHtml\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

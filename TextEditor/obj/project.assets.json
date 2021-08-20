@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\CSHARP\\TextEditor\\TextEditor.csproj",
+      "projectUniqueName": "C:\\dev\\CSharp\\Projetos\\TextEditor\\TextEditor.csproj",
       "projectName": "TextEditor",
-      "projectPath": "C:\\dev\\CSHARP\\TextEditor\\TextEditor.csproj",
+      "projectPath": "C:\\dev\\CSharp\\Projetos\\TextEditor\\TextEditor.csproj",
       "packagesPath": "C:\\Users\\wellingtonmereles\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\CSHARP\\TextEditor\\obj\\",
+      "outputPath": "C:\\dev\\CSharp\\Projetos\\TextEditor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

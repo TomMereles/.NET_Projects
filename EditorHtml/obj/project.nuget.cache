@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6P6Cl8v7UJewqgy03nIvhlk3uOnW04JAzZVAD1glaUlGkQaxU11GpVNp3lyo5A1G2XLE6++Bnb9LqjiYuTwA3w==",
+  "dgSpecHash": "Hhmvm/OTF940HiJeRz0XzPZ5zJ1YSqEF+dAYZisXe0CSLZZRCgrta21vRVzPrBffOu3tq/lC2uV99nb/srv6LA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\CSharp\\EditorHtml\\EditorHtml.csproj",
+  "projectFilePath": "C:\\dev\\CSharp\\Projetos\\EditorHtml\\EditorHtml.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

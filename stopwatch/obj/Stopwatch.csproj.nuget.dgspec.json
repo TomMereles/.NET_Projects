@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Stopwatch\\Stopwatch.csproj": {}
+    "C:\\dev\\CSharp\\Projetos\\stopwatch\\Stopwatch.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Stopwatch\\Stopwatch.csproj": {
+    "C:\\dev\\CSharp\\Projetos\\stopwatch\\Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Stopwatch\\Stopwatch.csproj",
+        "projectUniqueName": "C:\\dev\\CSharp\\Projetos\\stopwatch\\Stopwatch.csproj",
         "projectName": "Stopwatch",
-        "projectPath": "C:\\dev\\Stopwatch\\Stopwatch.csproj",
+        "projectPath": "C:\\dev\\CSharp\\Projetos\\stopwatch\\Stopwatch.csproj",
         "packagesPath": "C:\\Users\\wellingtonmereles\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Stopwatch\\obj\\",
+        "outputPath": "C:\\dev\\CSharp\\Projetos\\stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
