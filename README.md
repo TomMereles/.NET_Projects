@@ -7,6 +7,9 @@ Obs: Verifique se esta no caminho dentro da pasta do projeto que deseja rodar em
 <strong>EditorHTML:</strong>💻<br> Criado para entender mais sobre DoWhile, SetCursorPosition, switch e Regex a fim de criar um menu com opções para criar um novo arquivo de texto passando como paramêtro a tag <strong>emUmaPalavra</strong>(para deixar em negrito), limitado pelo console o que fiz foi mudar a cor para azul apenas da palavra que recebeu a tag HTML.<br><br>
 
 
+<strong>Timezone:</strong>🕗<br> Não chega ser um projeto, mas algo que achei bem relevante pela importancia de conter o fuso horário das grandes regiões do mundo dentro da linguagem C#, utilizei um foreach para chegar no resultado de listar os fusos.<br><br>
+
+
 <strong>TextEditor:</strong>📄<br> Semelhante ao projeto posterior(não tão complexo) aqui eu pratiquei o desenvolvimento usando Switch case e o objeto ReadKey que descreve a tecla a ser pressionada no teclado correspondente a combinação programada, temos o menu em console, com opções de: abrir o arquivo, criar um novo arquivo e sair.<br><br>
 
 
